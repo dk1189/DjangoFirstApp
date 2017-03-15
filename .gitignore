@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+*.log
+*.pot
+*.pyc
 
 # Distribution / packaging
 .Python
@@ -52,6 +55,7 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
+settings.py
 
 # Flask stuff:
 instance/
@@ -87,3 +91,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# directories to ignore
+.idea/
