@@ -1,1 +1,1 @@
-# DjangoFirst
+# My First Django Application on github
